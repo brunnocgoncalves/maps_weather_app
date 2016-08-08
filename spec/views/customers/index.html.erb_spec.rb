@@ -24,8 +24,6 @@ RSpec.describe "customers/index", type: :view do
 
   it "renders a list of customers" do
     render
-    assert_select "tr>td", :text => 2.5.to_s, :count => 2
-    assert_select "tr>td", :text => 3.5.to_s, :count => 2
     assert_select "tr>td", :text => "Name".to_s, :count => 2
     assert_select "tr>td", :text => "Address".to_s, :count => 2
     assert_select "tr>td", :text => "More Info".to_s, :count => 2

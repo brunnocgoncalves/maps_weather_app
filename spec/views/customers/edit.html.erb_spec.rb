@@ -17,10 +17,6 @@ RSpec.describe "customers/edit", type: :view do
 
     assert_select "form[action=?][method=?]", customer_path(@customer), "post" do
 
-      assert_select "input#customer_latitude[name=?]", "customer[latitude]"
-
-      assert_select "input#customer_longitude[name=?]", "customer[longitude]"
-
       assert_select "input#customer_name[name=?]", "customer[name]"
 
       assert_select "input#customer_address[name=?]", "customer[address]"
