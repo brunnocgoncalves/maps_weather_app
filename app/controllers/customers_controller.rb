@@ -7,28 +7,28 @@ class CustomersController < ApplicationController
   # GET /customers.json
   def index
     @customers = Customer.all
-    @hash = Gmaps4rails.build_markers(@customers) do |customer, marker|
-      marker.lat customer.latitude
-      marker.lng customer.longitude
-      options = { units: "metric", APPID: "c8ede9021d3ebaacf3f144b672b393b1"}
-      response = OpenWeather::Current.geocode(customer.latitude, customer.longitude, options)
-      temp = response["main"]["temp"]
-      marker.infowindow "<p style='font-family: Verdana; font-size: 12px; color: blue;'>Customer: #{customer.name}<br> Age: #{customer.age}<br> Inf- #{customer.more_info}<br>Temp: #{temp} Celcius</p>"
-    end
+    getMarkers @customers
   end
 
   # GET /customers/1
   # GET /customers/1.json
   def show
-    @customer
-    @hash = Gmaps4rails.build_markers(@customer) do |customer, marker|
+    getMarkers @customer
+  end
+
+  def getMarkers customers
+    @hash = Gmaps4rails.build_markers(customers) do |customer, marker|
       marker.lat customer.latitude
       marker.lng customer.longitude
-      options = { units: "metric", APPID: "c8ede9021d3ebaacf3f144b672b393b1"}
-      response = OpenWeather::Current.geocode(customer.latitude, customer.longitude, options)
-      temp = response["main"]["temp"]
+      temp = getTemp customer.latitude, customer.longitude
       marker.infowindow "<p style='font-family: Verdana; font-size: 12px; color: blue;'>Customer: #{customer.name}<br> Age: #{customer.age}<br> Inf- #{customer.more_info}<br>Temp: #{temp} Celcius</p>"
     end
+  end
+
+  def getTemp lat, long
+    options = { units: "metric", APPID: "c8ede9021d3ebaacf3f144b672b393b1"}
+    response = OpenWeather::Current.geocode(lat, long, options)
+    response["main"]["temp"]
   end
 
   # GET /customers/new
