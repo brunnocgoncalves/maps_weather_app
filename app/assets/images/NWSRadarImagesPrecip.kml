@@ -1,0 +1,5024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NWS Radar Images</name>
+	<open>1</open>
+	<Folder>
+		<name>National Weather Service</name>
+		<ScreenOverlay>
+			<name>National Weather Service</name>
+			<description>National Weather Service Doppler Radar RIDGE Imagery http://radar.weather.gov</description>
+			<Icon>
+				<href>http://radar.weather.gov/ridge/graphics/nws_google.gif</href>
+			</Icon>
+			<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+			<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+			<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+			<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+		</ScreenOverlay>
+		<ScreenOverlay>
+			<name>NOAA</name>
+			<description>National Oceanic and Atomospheric Administration  http://www.noaa.gov</description>
+			<Icon>
+				<href>http://radar.weather.gov/ridge/graphics/noaa_google.gif</href>
+			</Icon>
+			<overlayXY x="0.2" y="1" xunits="fraction" yunits="fraction"/>
+			<screenXY x="0.2" y="1" xunits="fraction" yunits="fraction"/>
+			<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+			<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+		</ScreenOverlay>
+	</Folder>
+	<Folder>
+		<name>BMX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BMX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BMX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.531525962136</north>
+					<south>30.803880088113</south>
+					<east>-84.186982851895</east>
+					<west>-89.3444147144665</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MXX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MXX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MXX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.8797163668546</north>
+					<south>30.185746640292</south>
+					<east>-83.225386546742</east>
+					<west>-88.3460807939009</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EOX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EOX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EOX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.7753845908425</north>
+					<south>29.136178658225</south>
+					<east>-82.924306210605</east>
+					<west>-87.9852581370961</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MOB</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MOB_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MOB_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.9754694019664</north>
+					<south>28.37416630138</south>
+					<east>-85.72601316972199</east>
+					<west>-90.7456165521795</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.3399419611151</north>
+					<south>32.513281804865</south>
+					<east>-83.446888039329</east>
+					<west>-88.7123354825107</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ABC</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ABC_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ABC_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>64.83612607088961</north>
+					<south>56.735143404874</south>
+					<east>-157.4479105724</east>
+					<west>-166.285346208052</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>APD</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/APD_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/APD_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>69.7080502596769</north>
+					<south>60.346935757724</south>
+					<east>-142.38442036022</east>
+					<west>-152.59654527144</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AHG</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AHG_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AHG_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>64.76072100552651</north>
+					<south>56.676584042636</south>
+					<east>-146.93212055553</east>
+					<west>-155.751179060502</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AKC</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AKC_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AKC_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>62.476125238592</north>
+					<south>54.87004613703</south>
+					<east>-152.47131386497</east>
+					<west>-160.768854703036</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AIH</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AIH_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AIH_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>63.3453397022594</north>
+					<south>55.564516948353</south>
+					<east>-142.04983625932</east>
+					<west>-150.53800653631</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AEC</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AEC_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AEC_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>69.0946114834872</north>
+					<south>59.912696200284</south>
+					<east>-160.27633464466</east>
+					<west>-170.292969499068</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ACG</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ACG_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ACG_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>60.4623624905673</north>
+					<south>53.230489931974</south>
+					<east>-131.5767676891</east>
+					<west>-139.466083207564</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FSX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FSX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FSX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.9725635597923</north>
+					<south>32.166701133034</south>
+					<east>-108.57125012484</east>
+					<west>-113.814009135853</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>IWA</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/IWA_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/IWA_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.6516793684526</north>
+					<south>30.917716355757</south>
+					<east>-109.08353292292</east>
+					<west>-114.247856209495</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EMX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EMX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EMX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.2202214951949</north>
+					<south>29.559302305742</south>
+					<east>-108.08344049627</east>
+					<west>-113.168079612038</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>YUK</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/YUK_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/YUK_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>0</north>
+					<south>0</south>
+					<east>0</east>
+					<west>0</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LZK</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LZK_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LZK_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.2421610745517</north>
+					<south>32.42107037631</south>
+					<east>-89.627932392467</east>
+					<west>-94.8873040632768</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SRX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SRX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/SRX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.7105966880105</north>
+					<south>32.862589485862</south>
+					<east>-91.713224667636</east>
+					<west>-97.0019597972523</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BBX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BBX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BBX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.055141546076</north>
+					<south>36.927532293146</south>
+					<east>-118.8304645469</east>
+					<west>-124.424220095548</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EYX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EYX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EYX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.5118614058061</north>
+					<south>32.675344071822</south>
+					<east>-114.91750036066</east>
+					<west>-120.193701088645</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BHX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BHX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BHX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.0959623995694</north>
+					<south>37.892578000155</south>
+					<east>-121.44806034435</east>
+					<west>-127.124479689165</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HNX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HNX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HNX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.7649257590554</north>
+					<south>33.854143898704</south>
+					<east>-116.94792406949</east>
+					<west>-122.30514064442</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/VTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.8059155273438</north>
+					<south>32.009360961914</south>
+					<east>-116.55833786011</east>
+					<west>-121.790942840576</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.0244562738592</north>
+					<south>35.968349706476</south>
+					<east>-118.91452918313</east>
+					<west>-124.430281802091</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>NKX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/NKX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/NKX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.2717612110485</north>
+					<south>30.557665141713</south>
+					<east>-114.4653896956</east>
+					<west>-119.608039953058</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MUX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MUX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MUX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.6328919289329</north>
+					<south>34.668078696511</south>
+					<east>-119.1844097623</east>
+					<west>-124.600569652211</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VBX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VBX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/VBX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.2442247147994</north>
+					<south>32.423011946245</south>
+					<east>-117.76186838323</east>
+					<west>-123.021373221657</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SOX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SOX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/SOX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.1951786526767</north>
+					<south>31.432162905606</south>
+					<east>-115.0326635326</east>
+					<west>-120.228680711226</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FTG</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FTG_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FTG_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.3558879644221</north>
+					<south>37.206748560125</south>
+					<east>-101.73169563987</east>
+					<west>-107.348938626376</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GJX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GJX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GJX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.605364074707</north>
+					<south>36.509371032715</south>
+					<east>-105.42873214722</east>
+					<west>-110.987997283936</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PUX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PUX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/PUX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.980986661044</north>
+					<south>35.92782503995</south>
+					<east>-101.42013599743</east>
+					<west>-106.93267594771</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DOX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DOX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DOX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.3609183987704</north>
+					<south>36.281847353849</south>
+					<east>-72.664982715953</east>
+					<west>-78.20578749223191</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EVX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EVX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EVX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.8577413662997</north>
+					<south>28.261900912198</south>
+					<east>-83.409997516979</east>
+					<west>-88.423641648726</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/JAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.7758527929133</north>
+					<south>28.183796518499</south>
+					<east>-79.193070914529</east>
+					<west>-84.202586850253</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BYX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BYX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BYX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>26.7692671064897</north>
+					<south>22.416819596724</south>
+					<east>-79.32498388117</east>
+					<west>-84.07310843727809</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MLB</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MLB_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MLB_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>30.3522920712558</north>
+					<south>25.865551958951</south>
+					<east>-78.20260768543601</east>
+					<west>-83.09723326249561</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AMX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AMX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AMX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>27.8013386813077</north>
+					<south>23.412682065097</south>
+					<east>-78.01519962657601</east>
+					<west>-82.80282502607869</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TLH</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TLH_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/TLH_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.6878361441872</north>
+					<south>28.099823448875</south>
+					<east>-81.822279080478</east>
+					<west>-86.8273838390003</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TBW</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TBW_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/TBW_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>29.9358683568781</north>
+					<south>25.466004465277</south>
+					<east>-79.95982933738</east>
+					<west>-84.83604449185459</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FFC</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FFC_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FFC_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.7276873640581</north>
+					<south>30.98969603105</south>
+					<east>-81.97733571832801</east>
+					<west>-87.14605353615499</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/VAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.1915017977628</north>
+					<south>28.580112637607</south>
+					<east>-80.48250355113601</east>
+					<west>-85.5131099076705</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JGX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JGX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/JGX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.0213189974698</north>
+					<south>30.320131863681</south>
+					<east>-80.782440227162</east>
+					<west>-85.9110080094771</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GUA</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GUA_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GUA_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>15.4869993625988</north>
+					<south>11.417602389943</south>
+					<east>147.03437516646</east>
+					<west>142.595033014471</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HKI</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HKI_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HKI_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>24.0257512456721</north>
+					<south>19.76049245661</south>
+					<east>-157.22461037376</east>
+					<west>-161.877619961825</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HKM</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HKM_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HKM_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>22.2326965262673</north>
+					<south>18.01763915322</south>
+					<east>-153.47805178556</east>
+					<west>-158.076296192516</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HMO</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HMO_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HMO_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>23.2536481337114</north>
+					<south>19.010636659102</south>
+					<east>-154.86477147883</east>
+					<west>-159.493511269309</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HWA</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HWA_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HWA_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>21.1882473754883</north>
+					<south>17.000137023926</south>
+					<east>-153.28377502441</east>
+					<west>-157.852622680664</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CBX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CBX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CBX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.2128499395197</north>
+					<south>40.75923665827</south>
+					<east>-113.254345176</east>
+					<west>-119.203741482821</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SFX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SFX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/SFX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.8106900301847</north>
+					<south>40.391454800693</south>
+					<east>-109.7241244923</east>
+					<west>-115.636017469926</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ILX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ILX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ILX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.7346280462092</north>
+					<south>37.557961786444</south>
+					<east>-86.508655783913</east>
+					<west>-92.155928067294</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LOT</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LOT_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LOT_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.2448958934437</north>
+					<south>38.953483539928</south>
+					<east>-85.193963789506</east>
+					<west>-90.9664136297053</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VWX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VWX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/VWX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.7750704539906</north>
+					<south>35.735763813366</south>
+					<east>-84.970705122514</east>
+					<west>-90.46813054865061</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>IND</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/IND_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/IND_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.2749797196822</north>
+					<south>37.131669172807</south>
+					<east>-83.469880925959</east>
+					<west>-89.08076515891339</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>IWX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/IWX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/IWX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.9899434731223</north>
+					<south>38.718474356911</south>
+					<east>-82.819857912931</east>
+					<west>-88.5705514942516</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DMX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DMX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DMX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.3771038124778</north>
+					<south>39.075254447243</south>
+					<east>-90.82626187411201</east>
+					<west>-96.610097545277</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DVN</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DVN_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DVN_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.2532227810946</north>
+					<south>38.961154299649</south>
+					<east>-87.68960750233001</east>
+					<west>-93.4627731184526</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DDC</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DDC_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DDC_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.2590301791104</north>
+					<south>35.253872708407</south>
+					<east>-97.23336628307</east>
+					<west>-102.693538069292</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GLD</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GLD_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GLD_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.9203845908425</north>
+					<south>36.802312081077</south>
+					<east>-98.903668240634</east>
+					<west>-104.487020069469</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TWX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TWX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/TWX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.5380274824663</north>
+					<south>36.446718888716</south>
+					<east>-93.45029638117001</east>
+					<west>-99.0044512107156</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ICT</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ICT_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ICT_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.1484257784757</north>
+					<south>35.150485714999</south>
+					<east>-94.71230808604901</east>
+					<west>-100.164606337114</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HPX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HPX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HPX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.20135226163</north>
+					<south>34.263669156161</south>
+					<east>-84.587233165394</east>
+					<west>-89.9737965531783</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JKL</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JKL_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/JKL_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.0833165532892</north>
+					<south>35.089603174383</south>
+					<east>-80.584620139382</east>
+					<west>-86.0323074618253</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LVX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LVX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LVX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.4802846596458</north>
+					<south>35.460585562966</south>
+					<east>-83.20141919222699</east>
+					<west>-88.67745457042351</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PAH</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PAH_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/PAH_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.5430533530495</north>
+					<south>34.583931648948</south>
+					<east>-86.062519406405</east>
+					<west>-91.4724703563343</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>POE</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/POE_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/POE_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.4629077495228</north>
+					<south>28.838685947765</south>
+					<east>-90.449491285844</east>
+					<west>-95.4940968877619</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LCH</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LCH_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LCH_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.4084840809215</north>
+					<south>27.833197215687</south>
+					<east>-90.71623304887299</east>
+					<west>-95.70745508367369</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LIX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LIX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LIX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.6254112174294</north>
+					<south>28.040251915672</south>
+					<east>-87.31983263882699</east>
+					<west>-92.32182460438121</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SHV</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SHV_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/SHV_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.7914788679643</north>
+					<south>30.101995225386</south>
+					<east>-91.278840082342</east>
+					<west>-96.3946404196999</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CBW</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CBW_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CBW_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.883444962935</north>
+					<south>43.184195695357</south>
+					<east>-64.693136652166</east>
+					<west>-70.9104994895242</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GYX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GYX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GYX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.6310335193981</north>
+					<south>41.140982249867</south>
+					<east>-67.257439408736</east>
+					<west>-73.2465862482244</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LWX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LWX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LWX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.515232294256</north>
+					<south>36.425510614568</south>
+					<east>-74.697157981179</east>
+					<west>-80.2495816317472</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BOX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BOX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BOX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.6114122702859</north>
+					<south>39.290916664817</south>
+					<east>-68.231075162021</east>
+					<west>-74.03525218616829</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.3869628628817</north>
+					<south>40.003250094327</south>
+					<east>-80.53053523670501</east>
+					<west>-86.4036764387651</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>APX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/APX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/APX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.6949606600675</north>
+					<south>42.108885830966</south>
+					<east>-81.66797306407599</east>
+					<west>-87.7618728776412</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GRR</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GRR_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GRR_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.5893858753551</north>
+					<south>40.188796886097</south>
+					<east>-82.594312730269</east>
+					<west>-88.4858643549139</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MQT</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MQT_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MQT_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.4010603471236</north>
+					<south>43.650480513139</south>
+					<east>-84.406088811701</east>
+					<west>-90.679448630593</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DLH</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DLH_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DLH_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.7233382901278</north>
+					<south>43.940150423917</south>
+					<east>-89.050275532116</east>
+					<west>-95.35920774980021</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MPX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MPX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MPX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.6341556757147</north>
+					<south>42.053696080988</south>
+					<east>-90.516042244651</east>
+					<west>-96.60381634798919</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GWX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GWX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GWX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.2763704889471</north>
+					<south>31.508960210627</south>
+					<east>-85.724262764671</east>
+					<west>-90.9250739773837</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DGX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DGX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DGX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.6160604303533</north>
+					<south>29.935426885431</south>
+					<east>-87.426673195579</east>
+					<west>-92.5328188809482</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.3443483942205</north>
+					<south>36.266421758478</south>
+					<east>-91.489605477073</east>
+					<west>-97.02916180697351</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SGF</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SGF_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/SGF_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.7155134998668</north>
+					<south>34.745451244007</south>
+					<east>-90.68454023881399</east>
+					<west>-96.10642633611501</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LSX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LSX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LSX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.2294187233665</north>
+					<south>36.159365622781</south>
+					<east>-87.912906008634</east>
+					<west>-93.4438730274547</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BLX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BLX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BLX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.6889774946733</north>
+					<south>43.0086949019</south>
+					<east>-105.50250295466</east>
+					<west>-111.699174874046</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GGW</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GGW_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GGW_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>51.1685310779918</north>
+					<south>45.232679027211</south>
+					<east>-103.38086683794</east>
+					<west>-109.856341802424</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TFX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TFX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/TFX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>50.3803084217418</north>
+					<south>44.529051097523</south>
+					<east>-108.18808790727</east>
+					<west>-114.57127771551</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MSX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MSX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MSX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.9383412863992</north>
+					<south>44.133104469993</south>
+					<east>-110.81422976407</east>
+					<west>-117.147215381969</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>UEX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/UEX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/UEX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.9111146406694</north>
+					<south>37.721447892623</south>
+					<east>-95.606556146795</east>
+					<west>-101.268010781028</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LNX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LNX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LNX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.613494942405</north>
+					<south>39.292831490257</south>
+					<east>-97.668979367343</east>
+					<west>-103.473339496959</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/OAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.9493732105602</north>
+					<south>38.681047404896</south>
+					<east>-93.48757566972201</east>
+					<west>-99.234840184992</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LRX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LRX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LRX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.3463382374157</north>
+					<south>38.124170268666</south>
+					<east>-113.9497987227</east>
+					<west>-119.646709234064</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ESX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ESX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ESX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.13296414462</north>
+					<south>33.260176669034</south>
+					<east>-112.22868495594</east>
+					<west>-117.544453111128</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RGX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RGX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/RGX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.3226946466619</north>
+					<south>37.175950872248</south>
+					<east>-116.64900489114</east>
+					<west>-122.263634463224</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ABX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ABX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ABX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.5654016945579</north>
+					<south>32.725802085183</south>
+					<east>-104.17881680575</east>
+					<west>-109.45838001598</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FDX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FDX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FDX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.0353197548606</north>
+					<south>32.225932547829</south>
+					<east>-101.00132351962</east>
+					<west>-106.247927745472</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HDX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HDX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HDX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.4329512440075</north>
+					<south>30.710462840687</south>
+					<east>-103.54180571123</east>
+					<west>-108.693611242121</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ENX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ENX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ENX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.2680486228249</north>
+					<south>39.894177773216</south>
+					<east>-71.127915371982</east>
+					<west>-76.99031993519181</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BGM</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BGM_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BGM_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.8666693115234</north>
+					<south>39.525620117187</south>
+					<east>-73.066845550537</east>
+					<west>-78.8934446716309</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BUF</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BUF_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BUF_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.6467926857688</north>
+					<south>40.241381919167</south>
+					<east>-75.783679629239</east>
+					<west>-81.6804913746227</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TYX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TYX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/TYX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.4898513932662</north>
+					<south>41.012190260454</south>
+					<east>-72.687205449885</east>
+					<west>-78.66283577658911</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OKX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OKX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/OKX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.4772877779874</north>
+					<south>38.245201596347</south>
+					<east>-70.00537678111699</east>
+					<west>-75.7131071610884</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MHX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MHX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MHX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.1804119456898</north>
+					<south>32.362830768932</south>
+					<east>-74.243848280473</east>
+					<west>-79.4993913823908</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/RAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.095868211226</north>
+					<south>33.225278001265</south>
+					<east>-75.828884485418</east>
+					<west>-81.1422556235574</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.370943589644</north>
+					<south>31.598375840621</south>
+					<east>-75.82144338434399</east>
+					<west>-81.0278809287331</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BIS</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BIS_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BIS_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.6538027954102</north>
+					<south>43.877695007324</south>
+					<east>-97.60414688110301</east>
+					<west>-103.905355377197</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MVX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MVX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MVX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>50.4520865145597</north>
+					<south>44.593260830966</south>
+					<east>-94.123947642933</east>
+					<west>-100.515393843217</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MBX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MBX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MBX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>51.3663834727894</north>
+					<south>45.408787647594</south>
+					<east>-97.608984694047</east>
+					<west>-104.108180139715</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ILN</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ILN_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ILN_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.9763540510698</north>
+					<south>36.854329514937</south>
+					<east>-81.02351064508601</east>
+					<west>-86.61117377541279</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CLE</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CLE_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CLE_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.0461261679909</north>
+					<south>38.770277779319</south>
+					<east>-78.977468899814</east>
+					<west>-84.73293986927381</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FDR</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FDR_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FDR_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.7544845719771</north>
+					<south>31.960798658891</south>
+					<east>-96.356902257746</east>
+					<west>-101.586377799294</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TLX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TLX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/TLX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.7538530661843</north>
+					<south>32.903328163841</south>
+					<east>-94.627849454013</east>
+					<west>-99.91933116566049</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>INX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/INX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/INX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.6215773565119</north>
+					<south>33.719508264715</south>
+					<east>-92.885690696023</east>
+					<west>-98.23340243252839</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VNX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VNX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/VNX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.2054757274281</north>
+					<south>34.267548481334</south>
+					<east>-95.43009446577599</east>
+					<west>-100.816924188787</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MAX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MAX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MAX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.7416289034757</north>
+					<south>39.410681027499</south>
+					<east>-119.80336735119</east>
+					<west>-125.618946852251</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PDT</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PDT_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/PDT_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.5177164528587</north>
+					<south>42.853989646218</south>
+					<east>-115.75754300204</east>
+					<west>-121.936154063832</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/RTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.5429255814986</north>
+					<south>42.876772627397</south>
+					<east>-119.86821695501</east>
+					<west>-126.049474723122</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DIX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DIX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DIX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.5229187566584</north>
+					<south>37.361694391424</south>
+					<east>-71.591097800515</east>
+					<west>-77.2215243807706</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PBZ</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PBZ_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/PBZ_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.129201410467</north>
+					<south>37.923329828436</south>
+					<east>-77.373703391335</east>
+					<west>-83.0528360262784</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CCX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CCX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CCX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.5365335637873</north>
+					<south>38.299946039373</south>
+					<east>-75.142916800759</east>
+					<west>-80.8555577364835</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JUA</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JUA_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/JUA_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>20.1962610001998</north>
+					<south>16.032167982622</south>
+					<east>-63.803893377131</east>
+					<west>-68.3465403053977</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CLX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CLX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CLX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.0007930686257</north>
+					<south>30.300658791282</south>
+					<east>-78.474017361728</east>
+					<west>-83.60143657337539</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CAE</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CAE_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CAE_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.3298270069469</north>
+					<south>31.559502299916</south>
+					<east>-78.51267134232999</east>
+					<west>-83.71666193181819</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GSP</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GSP_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GSP_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.2905403692072</north>
+					<south>32.466687830145</south>
+					<east>-79.584423606179</east>
+					<west>-84.8468081942472</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ABR</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ABR_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ABR_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.2709346285733</north>
+					<south>42.630813168612</south>
+					<east>-95.331444743763</east>
+					<west>-101.484304518266</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>UDX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/UDX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/UDX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.8758487215909</north>
+					<south>41.364129971591</south>
+					<east>-99.817599681508</east>
+					<west>-105.830383772417</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FSD</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FSD_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FSD_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.3142213717374</north>
+					<south>40.851849545566</south>
+					<east>-93.74455494273801</east>
+					<west>-99.7035060258345</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MRX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MRX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MRX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.6143565368652</north>
+					<south>33.712729949951</south>
+					<east>-80.723929901123</east>
+					<west>-86.07115890502929</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>NQA</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/NQA_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/NQA_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.7662120333585</north>
+					<south>32.914969967929</south>
+					<east>-87.222458842884</east>
+					<west>-92.51472291426229</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OHX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OHX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/OHX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.6958263466575</north>
+					<south>33.789255912087</south>
+					<east>-83.88223187533301</east>
+					<west>-89.23485416759149</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AMA</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AMA_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AMA_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.6508693070845</north>
+					<south>32.806325850053</south>
+					<east>-99.06211725408301</east>
+					<west>-104.347073752663</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EWX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EWX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EWX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>31.9778661485152</north>
+					<south>27.421851133867</south>
+					<east>-95.538758947199</east>
+					<west>-100.508957144997</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BRO</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BRO_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/BRO_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>28.1119668579102</north>
+					<south>23.712033996582</south>
+					<east>-95.015035400391</east>
+					<west>-99.8149621582031</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GRK</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GRK_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GRK_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.0194891496138</north>
+					<south>28.416141371293</south>
+					<east>-94.867901403254</east>
+					<west>-99.88973534323949</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CRP</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CRP_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CRP_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>30.0164833207564</north>
+					<south>25.543384565874</south>
+					<east>-95.067063085383</east>
+					<west>-99.9468071816184</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FWS</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FWS_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FWS_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.9166561889648</north>
+					<south>30.220809631348</south>
+					<east>-94.737361602783</east>
+					<west>-99.860103302002</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DYX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DYX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DYX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.8807386641069</north>
+					<south>30.186723161177</south>
+					<east>-96.689358423407</east>
+					<west>-101.810102608421</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EPZ</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EPZ_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/EPZ_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.1986885001443</north>
+					<south>29.538837425926</south>
+					<east>-104.15202486905</east>
+					<west>-109.2354987682</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HGX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HGX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/HGX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>31.7406415488503</north>
+					<south>27.195094063499</south>
+					<east>-92.59548052701101</east>
+					<west>-97.5542596019398</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DFX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DFX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/DFX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>31.5372175251354</north>
+					<south>27.000535396229</south>
+					<east>-97.801320634321</east>
+					<west>-102.75042841131</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LBB</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LBB_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/LBB_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.0266383361816</north>
+					<south>31.272716827393</south>
+					<east>-99.21663314819401</east>
+					<west>-104.4027293396</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MAF</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MAF_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MAF_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.2704645191539</north>
+					<south>29.607058147084</south>
+					<east>-99.64108732743701</east>
+					<west>-104.728439733332</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SJT</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SJT_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/SJT_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.6841925256903</north>
+					<south>29.049381124323</south>
+					<east>-97.959704354026</east>
+					<west>-103.015862246427</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ICX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ICX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ICX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.0833165532892</north>
+					<south>35.089603174383</south>
+					<east>-110.13261666038</east>
+					<west>-115.580303982821</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.8900741161</north>
+					<south>38.626356464733</south>
+					<east>-109.5710946794</east>
+					<west>-115.313332117254</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CXX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CXX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CXX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.2799828685414</north>
+					<south>41.731932941784</south>
+					<east>-70.13474763350099</east>
+					<west>-76.18716573541811</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FCX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FCX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FCX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.4976191017844</north>
+					<south>34.541366050027</south>
+					<east>-77.566085635099</east>
+					<west>-82.9729071461071</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AQK</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AQK_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/AQK_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>0</north>
+					<south>0</south>
+					<east>0</east>
+					<west>0</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FCX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FCX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/FCX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.4976191017844</north>
+					<south>34.541366050027</south>
+					<east>-77.566085635099</east>
+					<west>-82.9729071461071</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ATX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ATX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ATX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>51.1568897871538</north>
+					<south>45.222319474654</south>
+					<east>-119.25156987971</east>
+					<west>-125.725646584251</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OTX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OTX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/OTX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>50.6136386247115</north>
+					<south>44.737677321001</south>
+					<east>-114.41558786566</east>
+					<west>-120.825727469704</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RLX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RLX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/RLX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.8278397577459</north>
+					<south>35.784993078058</south>
+					<east>-78.967771523216</east>
+					<west>-84.4690588101474</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GRB</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GRB_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/GRB_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.2663655229048</north>
+					<south>41.719551558061</south>
+					<east>-85.08042261297101</east>
+					<west>-91.1314923928001</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ARX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ARX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/ARX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.5599141762473</north>
+					<south>41.076119010232</south>
+					<east>-88.19485562411199</east>
+					<west>-94.177177623402</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MKX</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MKX_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/MKX_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.6666199701483</north>
+					<south>40.259545995539</south>
+					<east>-85.59677390358701</east>
+					<west>-91.49540005770599</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CYS</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CYS_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/CYS_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.7746265896884</north>
+					<south>38.519820071134</south>
+					<east>-101.93496455799</east>
+					<west>-107.667480760054</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RIW</name>
+		<Folder>
+			<name>1 Hour Precipitation</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RIW_N1P_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>1 Hour Precipitation</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N1P/RIW_N1P_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.7689261280407</north>
+					<south>40.353230937611</south>
+					<east>-105.51805845781</east>
+					<west>-111.42608957464</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
