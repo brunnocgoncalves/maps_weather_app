@@ -1,0 +1,5027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NWS Radar Images</name>
+	<open>1</open>
+	<Folder>
+		<name>National Weather Service</name>
+		<visibility>0</visibility>
+		<ScreenOverlay>
+			<name>National Weather Service</name>
+			<visibility>0</visibility>
+			<description>National Weather Service Doppler Radar RIDGE Imagery http://radar.weather.gov</description>
+			<Icon>
+				<href>http://radar.weather.gov/ridge/graphics/nws_google.gif</href>
+			</Icon>
+			<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+			<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+			<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+			<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+		</ScreenOverlay>
+		<ScreenOverlay>
+			<name>NOAA</name>
+			<visibility>0</visibility>
+			<description>National Oceanic and Atomospheric Administration  http://www.noaa.gov</description>
+			<Icon>
+				<href>http://radar.weather.gov/ridge/graphics/noaa_google.gif</href>
+			</Icon>
+			<overlayXY x="0.2" y="1" xunits="fraction" yunits="fraction"/>
+			<screenXY x="0.2" y="1" xunits="fraction" yunits="fraction"/>
+			<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+			<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+		</ScreenOverlay>
+	</Folder>
+	<Folder>
+		<name>BMX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BMX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BMX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.5311680325595</north>
+					<south>30.804239321622</south>
+					<east>-84.187374683727</east>
+					<west>-89.34402418656779</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MXX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MXX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MXX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.8793584372781</north>
+					<south>30.186105873802</south>
+					<east>-83.225778378573</east>
+					<west>-88.34569026600229</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EOX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EOX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EOX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.7750342767889</north>
+					<south>29.136530248469</south>
+					<east>-82.924689705589</east>
+					<west>-87.9848759183017</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MOB</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MOB_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MOB_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.9751190879128</north>
+					<south>28.374517891624</south>
+					<east>-85.726396664706</east>
+					<west>-90.7452343333851</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.3395764160156</north>
+					<south>32.513648681641</south>
+					<east>-83.447288208008</east>
+					<west>-88.71193664550781</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ABC</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ABC_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ABC_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>64.8355168290572</north>
+					<south>56.735754866167</south>
+					<east>-157.4485775202</east>
+					<west>-166.284681479714</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>APD</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/APD_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/APD_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>69.7073496315696</north>
+					<south>60.34763893821</south>
+					<east>-142.38518735019</east>
+					<west>-152.595780833851</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AHG</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AHG_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AHG_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>64.7601117636941</north>
+					<south>56.677195503928</south>
+					<east>-146.93278750333</east>
+					<west>-155.750514332164</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AKC</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AKC_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AKC_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>62.4755464588512</north>
+					<south>54.870627025257</south>
+					<east>-152.47194746538</east>
+					<west>-160.768223211115</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AIH</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AIH_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AIH_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>63.3447456914728</north>
+					<south>55.565113123113</south>
+					<east>-142.05048653343</east>
+					<west>-150.537358426181</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AEC</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AEC_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AEC_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>69.09391085538</north>
+					<south>59.913399380771</south>
+					<east>-160.27710163463</east>
+					<west>-170.292205061479</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ACG</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ACG_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ACG_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>60.4618141729181</north>
+					<south>53.231040247137</south>
+					<east>-131.57736794212</east>
+					<west>-139.46548495206</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FSX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FSX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FSX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.9721980146928</north>
+					<south>32.16706800981</south>
+					<east>-108.57165029352</east>
+					<west>-113.81361029885</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>IWA</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/IWA_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/IWA_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.6513214388761</north>
+					<south>30.918075589267</south>
+					<east>-109.08292530407</east>
+					<west>-114.246466230913</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EMX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EMX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EMX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.2198711811412</north>
+					<south>29.559653895985</south>
+					<east>-108.08382399126</east>
+					<west>-113.167697393244</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>YUK</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/YUK_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/YUK_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>0</north>
+					<south>0</south>
+					<east>0</east>
+					<west>0</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LZK</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LZK_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LZK_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.2417955294522</north>
+					<south>32.421437253085</south>
+					<east>-89.628332561146</east>
+					<west>-94.886905226274</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SRX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SRX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/SRX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.710231142911</north>
+					<south>32.862956362638</south>
+					<east>-91.71362483631501</east>
+					<west>-97.00156096024951</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BBX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BBX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BBX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.0516481850364</north>
+					<south>36.925030753396</south>
+					<east>-118.80700436679</east>
+					<west>-124.399677928578</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EYX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EYX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EYX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.5114958607067</north>
+					<south>32.675710948597</south>
+					<east>-114.91790052934</east>
+					<west>-120.193302251642</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BHX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BHX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BHX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.0955740079013</north>
+					<south>37.892967806729</south>
+					<east>-121.44848552357</east>
+					<west>-127.124055924849</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HNX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HNX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HNX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.7645525984331</north>
+					<south>33.854518418746</south>
+					<east>-116.94833257502</east>
+					<west>-122.304733498313</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/VTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.8055499822443</north>
+					<south>32.00972783869</south>
+					<east>-116.55873802879</east>
+					<west>-121.790544003573</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.024067882191</north>
+					<south>35.96873951305</south>
+					<east>-118.91495436235</east>
+					<west>-124.429858037775</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>NKX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/NKX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/NKX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.2714032814719</north>
+					<south>30.558024375222</south>
+					<east>-114.46578152743</east>
+					<west>-119.60764942516</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MUX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MUX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MUX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.6325111527876</north>
+					<south>34.668460859819</south>
+					<east>-119.18482660467</east>
+					<west>-124.600154196999</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VBX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VBX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/VBX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.2438591696999</north>
+					<south>32.42337882302</south>
+					<east>-117.76226855191</east>
+					<west>-123.020974384655</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SOX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SOX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/SOX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.1948131075772</north>
+					<south>31.432529782382</south>
+					<east>-115.03406315197</east>
+					<west>-120.229281324907</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FTG</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FTG_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FTG_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.355491957231</north>
+					<south>37.207146009965</south>
+					<east>-101.73212915594</east>
+					<west>-107.348506552956</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GJX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GJX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GJX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.6049756830389</north>
+					<south>36.509760839289</south>
+					<east>-105.42915732644</east>
+					<west>-110.98757351962</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PUX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PUX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/PUX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.9805982693759</north>
+					<south>35.928214846524</south>
+					<east>-101.42056117665</east>
+					<west>-106.932252183394</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DOX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DOX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DOX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.3605300071023</north>
+					<south>36.282237160423</south>
+					<east>-72.66540789517499</east>
+					<west>-78.20536372791641</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EVX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EVX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EVX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.8573910522461</north>
+					<south>28.262252502441</south>
+					<east>-83.410381011963</east>
+					<west>-88.4232594299316</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/JAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.7755024788596</north>
+					<south>28.184148108742</south>
+					<east>-79.193454409513</east>
+					<west>-84.2022046314586</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BYX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BYX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BYX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>26.7689320234819</north>
+					<south>22.417155900435</south>
+					<east>-79.325350702459</east>
+					<west>-84.0727428366921</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MLB</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MLB_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MLB_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>30.3519493727251</north>
+					<south>25.865895905928</south>
+					<east>-78.202982843572</east>
+					<west>-83.0968593528054</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AMX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AMX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AMX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>27.8010035982999</north>
+					<south>23.413018368808</south>
+					<east>-78.015566447865</east>
+					<west>-82.8024594254927</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TLH</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TLH_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/TLH_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.6874858301336</north>
+					<south>28.100175039118</south>
+					<east>-81.822662575462</east>
+					<west>-86.827001620206</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TBW</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TBW_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/TBW_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>29.9355256583474</north>
+					<south>25.466348412254</south>
+					<east>-79.960204495517</east>
+					<west>-84.8356705821644</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FFC</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FFC_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FFC_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.7273218189586</north>
+					<south>30.990062907826</south>
+					<east>-81.977735887007</east>
+					<west>-87.1456546991522</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/VAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.1911514837092</north>
+					<south>28.58046422785</south>
+					<east>-80.48288704612</east>
+					<west>-85.5127276888761</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JGX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JGX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/JGX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.0209610678933</north>
+					<south>30.32049109719</south>
+					<east>-80.78283205899299</east>
+					<west>-85.9106174815785</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GUA</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GUA_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GUA_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>15.4836640201915</north>
+					<south>11.414938434254</south>
+					<east>147.03400834517</east>
+					<west>142.595398615057</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HKI</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HKI_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HKI_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>24.0254313937101</north>
+					<south>19.760813473788</south>
+					<east>-157.22496052135</east>
+					<west>-161.877270979448</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HKM</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HKM_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HKM_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>22.2323766743053</north>
+					<south>18.017960170399</south>
+					<east>-153.47840193315</east>
+					<west>-158.075947210138</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HMO</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HMO_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HMO_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>23.2533282817494</north>
+					<south>19.010957676281</south>
+					<east>-154.86512162642</east>
+					<west>-159.493162286932</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HWA</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HWA_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HWA_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>21.1879427545721</north>
+					<south>17.000442754572</south>
+					<east>-153.28410849831</east>
+					<west>-157.852290316495</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CBX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CBX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CBX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.2124310857599</north>
+					<south>40.759657037908</south>
+					<east>-113.25480370261</east>
+					<west>-119.203284482089</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SFX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SFX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/SFX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.8102787919478</north>
+					<south>40.391867537065</south>
+					<east>-109.72457468206</east>
+					<west>-115.635568778298</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ILX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ILX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ILX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.734239654541</north>
+					<south>37.558351593018</south>
+					<east>-86.50908096313501</east>
+					<west>-92.1555043029785</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LOT</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LOT_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LOT_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.2444922707298</north>
+					<south>38.953888633034</south>
+					<east>-85.19440564242301</east>
+					<west>-90.9659732471813</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VWX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VWX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/VWX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.7746896778453</north>
+					<south>35.736145976673</south>
+					<east>-84.971121964888</east>
+					<west>-90.4677150934393</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>IND</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/IND_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/IND_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.274591328014</north>
+					<south>37.132058979381</south>
+					<east>-83.47030610518</east>
+					<west>-89.0803413945978</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>IWX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/IWX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/IWX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.9895398504084</north>
+					<south>38.718879450018</south>
+					<east>-82.820299765847</east>
+					<west>-88.5701111117276</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DMX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DMX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DMX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.3767001897639</north>
+					<south>39.07565954035</south>
+					<east>-90.826703727029</east>
+					<west>-96.609657162753</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DVN</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DVN_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DVN_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.2528191583807</north>
+					<south>38.961559392756</south>
+					<east>-87.690049355247</east>
+					<west>-93.4623327359286</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DDC</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DDC_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DDC_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.2586494029652</north>
+					<south>35.254254871715</south>
+					<east>-97.23378312544401</east>
+					<west>-102.69312261408</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GLD</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GLD_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GLD_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.9199961991744</north>
+					<south>36.802701887651</south>
+					<east>-98.904093419856</east>
+					<west>-104.486596305154</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TWX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TWX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/TWX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.5376390907981</north>
+					<south>36.44710869529</south>
+					<east>-93.450721560391</east>
+					<west>-99.0040274464</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ICT</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ICT_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ICT_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.1480526178533</north>
+					<south>35.150860235041</south>
+					<east>-94.712716591575</east>
+					<west>-100.164199191007</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HPX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HPX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HPX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.2009714854847</north>
+					<south>34.264051319469</south>
+					<east>-84.587650007768</east>
+					<west>-89.97338109796701</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JKL</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JKL_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/JKL_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.082935777144</north>
+					<south>35.089985337691</south>
+					<east>-80.58503698175601</east>
+					<west>-86.031892006614</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LVX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LVX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LVX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.4799038835005</north>
+					<south>35.460967726274</south>
+					<east>-83.201836034601</east>
+					<west>-88.6770391152122</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PAH</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PAH_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/PAH_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.5426725769043</north>
+					<south>34.584313812256</south>
+					<east>-86.062936248779</east>
+					<west>-91.472054901123</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>POE</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/POE_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/POE_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.4625574354692</north>
+					<south>28.839037538008</south>
+					<east>-90.449874780828</east>
+					<west>-95.4937146689675</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LCH</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LCH_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LCH_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.4081413823908</north>
+					<south>27.833541162664</south>
+					<east>-90.716608207009</east>
+					<west>-95.7070811739835</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LIX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LIX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LIX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>32.6250609033758</north>
+					<south>28.040603505915</south>
+					<east>-87.320216133811</east>
+					<west>-92.32144238558681</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SHV</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SHV_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/SHV_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.7911209383878</north>
+					<south>30.102354458896</south>
+					<east>-91.279231914173</east>
+					<west>-96.39424989180129</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CBW</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CBW_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CBW_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.8830108781294</north>
+					<south>43.184631361528</south>
+					<east>-64.693611852473</east>
+					<west>-70.9100258705833</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GYX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GYX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GYX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.6306146656383</north>
+					<south>41.141402629505</south>
+					<east>-67.257897935347</east>
+					<west>-73.24612924749199</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LWX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LWX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LWX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.5148515181108</north>
+					<south>36.425892777876</south>
+					<east>-74.697574823553</east>
+					<west>-80.24916617653589</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BOX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BOX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BOX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.6110086475719</north>
+					<south>39.291321757923</south>
+					<east>-68.231517014937</east>
+					<west>-74.0348118036443</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.3865516246449</north>
+					<south>40.0036628307</south>
+					<east>-80.530985426469</east>
+					<west>-86.4032277471369</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>APX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/APX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/APX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.6945341907848</north>
+					<south>42.109313853871</south>
+					<east>-81.668439927535</east>
+					<west>-87.7614075678045</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GRR</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GRR_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GRR_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.5889746371183</north>
+					<south>40.18920962247</south>
+					<east>-82.59476292003301</east>
+					<west>-88.48541566328571</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MQT</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MQT_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MQT_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.4006186467951</north>
+					<south>43.650923822576</south>
+					<east>-84.40657234885499</east>
+					<west>-90.6789667025479</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DLH</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DLH_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DLH_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.7228965897994</north>
+					<south>43.940593733354</south>
+					<east>-89.05075906926901</east>
+					<west>-95.3587258217551</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MPX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MPX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MPX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.633729206432</north>
+					<south>42.054124103893</south>
+					<east>-90.51650910811</east>
+					<west>-96.6033510381525</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GWX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GWX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GWX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.2760125593706</north>
+					<south>31.509319444136</south>
+					<east>-85.72465459650201</east>
+					<west>-90.9246834494851</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DGX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DGX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DGX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.6157025007768</north>
+					<south>29.935786118941</south>
+					<east>-87.42706502740999</east>
+					<west>-92.5324283530495</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.3439676180753</north>
+					<south>36.266803921786</south>
+					<east>-91.49002231944699</east>
+					<west>-97.02874635176229</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SGF</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SGF_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/SGF_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.7151403392445</north>
+					<south>34.745825764049</south>
+					<east>-90.68494874434001</east>
+					<west>-96.106019190008</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LSX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LSX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LSX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.2290303316983</north>
+					<south>36.159755429355</south>
+					<east>-87.91333118785499</east>
+					<west>-93.4434492631392</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BLX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BLX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BLX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.6885434098677</north>
+					<south>43.009130568071</south>
+					<east>-105.50297815496</east>
+					<west>-111.698701255105</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GGW</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GGW_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GGW_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>51.1680741466175</north>
+					<south>45.23313762318</south>
+					<east>-103.38136704878</east>
+					<west>-109.85584325617</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TFX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TFX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/TFX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>50.3798667214134</north>
+					<south>44.52949440696</south>
+					<east>-108.18757199374</east>
+					<west>-114.569796336781</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MSX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MSX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MSX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.9378995860707</north>
+					<south>44.13354777943</south>
+					<east>-110.81371385054</east>
+					<west>-117.14573400324</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>UEX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/UEX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/UEX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.9107186334783</north>
+					<south>37.721845342463</south>
+					<east>-95.606989662864</east>
+					<west>-101.267578707608</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LNX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LNX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LNX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.6130913196911</north>
+					<south>39.293236583363</south>
+					<east>-97.669421220259</east>
+					<west>-103.472899114435</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/OAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.9489695878462</north>
+					<south>38.681452498002</south>
+					<east>-93.488017522638</east>
+					<west>-99.234399802468</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LRX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LRX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LRX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.3459422302246</north>
+					<south>38.124567718506</south>
+					<east>-113.94923278809</east>
+					<west>-119.645277709961</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ESX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ESX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ESX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.1325909839977</north>
+					<south>33.260551189076</south>
+					<east>-112.22909346147</east>
+					<west>-117.544045965021</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RGX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RGX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/RGX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.3223062549938</north>
+					<south>37.176340678822</south>
+					<east>-116.64943007036</east>
+					<west>-122.263210698908</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ABX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ABX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ABX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.5650361494585</north>
+					<south>32.726168961958</south>
+					<east>-104.17921697443</east>
+					<west>-109.457981178977</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FDX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FDX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FDX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.0349542097612</north>
+					<south>32.226299424605</south>
+					<east>-101.0017236883</east>
+					<west>-106.247528908469</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HDX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HDX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HDX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.4325933144309</north>
+					<south>30.710822074197</south>
+					<east>-103.54219754306</east>
+					<west>-108.693220714222</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ENX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ENX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ENX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.2676373845881</north>
+					<south>39.894590509588</south>
+					<east>-71.128365561745</east>
+					<west>-76.9898712435636</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BGM</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BGM_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BGM_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.8662656888095</north>
+					<south>39.526025210294</south>
+					<east>-73.06728740345299</east>
+					<west>-78.8930042891069</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BUF</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BUF_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BUF_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.646381447532</north>
+					<south>40.24179465554</south>
+					<east>-75.784129819003</east>
+					<west>-81.6800426829945</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TYX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TYX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/TYX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.4894401550293</north>
+					<south>41.012602996826</south>
+					<east>-72.687655639648</east>
+					<west>-78.6623870849609</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OKX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OKX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/OKX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.4768917707963</north>
+					<south>38.245599046187</south>
+					<east>-70.005810297186</east>
+					<west>-75.7126750876687</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MHX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MHX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MHX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.1800464005904</north>
+					<south>32.363197645708</south>
+					<east>-74.244248449152</east>
+					<west>-79.49899254538791</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/RAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.0955026661266</north>
+					<south>33.225644878041</south>
+					<east>-75.82928465409699</east>
+					<west>-81.1418567865545</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.3705780445446</north>
+					<south>31.598742717396</south>
+					<east>-75.821843553023</east>
+					<west>-81.02748209173031</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BIS</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BIS_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BIS_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>49.6533687106046</north>
+					<south>43.878130673495</south>
+					<east>-97.604622081409</east>
+					<west>-103.904881758256</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MVX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MVX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MVX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>50.4516448142312</north>
+					<south>44.593704140403</south>
+					<east>-94.124431180087</east>
+					<west>-100.514911915172</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MBX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MBX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MBX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>51.3659265414151</north>
+					<south>45.409246243564</south>
+					<east>-97.60948490489599</east>
+					<west>-104.107681593461</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ILN</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ILN_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ILN_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>41.9759656594016</north>
+					<south>36.854719321511</south>
+					<east>-81.023935824308</east>
+					<west>-86.61075001109729</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CLE</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CLE_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CLE_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.045722545277</north>
+					<south>38.770682872425</south>
+					<east>-78.97791075273</east>
+					<west>-84.7324994867498</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FDR</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FDR_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FDR_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.7541190268777</north>
+					<south>31.961165535667</south>
+					<east>-96.35730242642499</east>
+					<west>-101.585978962291</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>TLX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/TLX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/TLX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.7534875210849</north>
+					<south>32.903695040616</south>
+					<east>-94.628249622692</east>
+					<west>-99.9189323286577</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>INX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/INX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/INX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.6212041958896</north>
+					<south>33.719882784757</south>
+					<east>-92.886099201549</east>
+					<west>-98.2329952864213</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>VNX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/VNX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/VNX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.2051025668058</north>
+					<south>34.267923001376</south>
+					<east>-95.430502971302</east>
+					<west>-100.81651704268</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MAX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MAX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MAX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>44.7412252807617</north>
+					<south>39.411086120605</south>
+					<east>-119.8038092041</east>
+					<west>-125.618506469727</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PDT</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PDT_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/PDT_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.517289983576</north>
+					<south>42.854417669123</south>
+					<east>-115.7580098655</east>
+					<west>-121.935688753995</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/RTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.5424991122159</north>
+					<south>42.877200650302</south>
+					<east>-119.86868381847</east>
+					<west>-126.049009413286</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DIX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DIX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DIX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>42.5225227494673</north>
+					<south>37.362091841264</south>
+					<east>-71.591531316584</east>
+					<west>-77.2210923073508</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>PBZ</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/PBZ_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/PBZ_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.1288054032759</north>
+					<south>37.923727278276</south>
+					<east>-77.37413690740399</east>
+					<west>-83.0524039528587</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CCX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CCX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CCX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.5361375565962</north>
+					<south>38.300343489213</south>
+					<east>-75.14335031682801</east>
+					<west>-80.8551256630637</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>JUA</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/JUA_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/JUA_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>20.1959449559992</north>
+					<south>16.032485178167</south>
+					<east>-63.804239356301</east>
+					<west>-68.34619547757239</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CLX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CLX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CLX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>35.0004427545721</north>
+					<south>30.301010381525</south>
+					<east>-78.47440085671199</east>
+					<west>-83.601054354581</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CAE</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CAE_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CAE_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.3294614618475</north>
+					<south>31.559869176691</south>
+					<east>-78.51307151100799</east>
+					<west>-83.7162630948153</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GSP</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GSP_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GSP_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.2901672085849</north>
+					<south>32.467062350186</south>
+					<east>-79.584832111705</east>
+					<west>-84.84640104814009</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ABR</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ABR_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ABR_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>48.2705081592907</north>
+					<south>42.631241191517</south>
+					<east>-95.33191160722301</east>
+					<west>-101.48383920843</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>UDX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/UDX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/UDX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.8754298678311</north>
+					<south>41.36455035123</south>
+					<east>-99.818058208119</east>
+					<west>-105.829926771684</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FSD</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FSD_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FSD_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.3138101335005</north>
+					<south>40.852262281938</south>
+					<east>-93.745005132502</east>
+					<west>-99.70305733420631</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MRX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MRX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MRX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.6139833762429</north>
+					<south>33.713104469993</south>
+					<east>-80.724338406649</east>
+					<west>-86.0707517589222</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>NQA</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/NQA_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/NQA_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.7658464882591</north>
+					<south>32.915336844704</south>
+					<east>-87.222859011563</east>
+					<west>-92.5143240772594</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OHX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OHX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/OHX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>38.6954531860352</north>
+					<south>33.789630432129</south>
+					<east>-83.882640380859</east>
+					<west>-89.2344470214844</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AMA</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AMA_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AMA_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>37.6505037619851</north>
+					<south>32.806692726829</south>
+					<east>-99.06251742276299</east>
+					<west>-104.346674915661</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EWX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EWX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EWX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>31.9775158344616</north>
+					<south>27.42220272411</south>
+					<east>-95.53914244218301</east>
+					<west>-100.508574926203</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>BRO</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/BRO_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/BRO_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>28.1116317749023</north>
+					<south>23.712370300293</south>
+					<east>-95.01540222168001</east>
+					<west>-99.81459655761719</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GRK</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GRK_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GRK_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.0191388355602</north>
+					<south>28.416492961537</south>
+					<east>-94.868284898238</east>
+					<west>-99.88935312444509</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CRP</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CRP_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CRP_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>30.0161406222257</north>
+					<south>25.543728512851</south>
+					<east>-95.06743824351901</east>
+					<west>-99.9464332719283</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FWS</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FWS_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FWS_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.9162982593883</north>
+					<south>30.221168864857</south>
+					<east>-94.737753434615</east>
+					<west>-99.8597127741033</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DYX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DYX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DYX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.8803807345304</north>
+					<south>30.187082394687</south>
+					<east>-96.689750255238</east>
+					<west>-101.809712080522</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>EPZ</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/EPZ_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/EPZ_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.1983381860906</north>
+					<south>29.539189016169</south>
+					<east>-104.15240836404</east>
+					<west>-109.235116549405</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>HGX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/HGX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/HGX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>31.7402988503196</north>
+					<south>27.195438010476</south>
+					<east>-92.595855685147</east>
+					<west>-97.55388569224969</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>DFX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/DFX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/DFX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>31.5368748266047</north>
+					<south>27.000879343206</south>
+					<east>-97.80169579245801</east>
+					<west>-102.75005450162</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>LBB</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/LBB_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/LBB_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>36.0262804066051</north>
+					<south>31.273076060902</south>
+					<east>-99.217024980025</east>
+					<west>-104.402338811701</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MAF</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MAF_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MAF_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>34.2701065895774</north>
+					<south>29.607417380593</south>
+					<east>-99.641479159268</east>
+					<west>-104.728049205433</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>SJT</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/SJT_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/SJT_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>33.6838422116366</north>
+					<south>29.049732714566</south>
+					<east>-97.96008784900999</east>
+					<west>-103.015480027632</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ICX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ICX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ICX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.082935777144</north>
+					<south>35.089985337691</south>
+					<east>-110.13303350275</east>
+					<west>-115.57988852761</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.8896781089089</north>
+					<south>38.626753914573</south>
+					<east>-109.57152819547</east>
+					<west>-115.312900043834</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CXX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CXX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CXX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.2795563992587</north>
+					<south>41.732360964688</south>
+					<east>-70.13521449695899</east>
+					<west>-76.18670042558151</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FCX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FCX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FCX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.4972383256392</north>
+					<south>34.541748213335</south>
+					<east>-77.56650247747299</east>
+					<west>-82.97249169089579</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>AQK</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/AQK_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/AQK_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>0</north>
+					<south>0</south>
+					<east>0</east>
+					<west>0</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>FCX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/FCX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/FCX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>39.4972383256392</north>
+					<south>34.541748213335</south>
+					<east>-77.56650247747299</east>
+					<west>-82.97249169089579</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ATX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ATX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ATX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>51.1564404713024</north>
+					<south>45.222770427357</south>
+					<east>-119.25206175371</east>
+					<west>-125.725156347101</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>OTX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/OTX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/OTX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>50.613196924383</north>
+					<south>44.738120630438</south>
+					<east>-114.41607140281</east>
+					<west>-120.825245541659</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RLX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RLX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/RLX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>40.8274513660778</north>
+					<south>35.785382884632</south>
+					<east>-78.968196702437</east>
+					<west>-84.4686350458318</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>GRB</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/GRB_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/GRB_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>47.2659390536222</north>
+					<south>41.719979580966</south>
+					<east>-85.08088947642899</east>
+					<west>-91.1310270829634</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>ARX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/ARX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/ARX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>46.5595029380105</north>
+					<south>41.076531746604</south>
+					<east>-88.195305813876</east>
+					<west>-94.17672893177379</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>MKX</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/MKX_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/MKX_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.6662087319114</north>
+					<south>40.259958731911</south>
+					<east>-85.597224093351</east>
+					<west>-91.4949513660778</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>CYS</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/CYS_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/CYS_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>43.7742305824973</north>
+					<south>38.520217520974</south>
+					<east>-101.93539807406</east>
+					<west>-107.667048686634</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>RIW</name>
+		<Folder>
+			<name>Short-Range Reflectivity</name>
+			<ScreenOverlay>
+				<name>Legend</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/kml/radarkeyimages/RIW_N0R_Legend_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<overlayXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<screenXY x="1" y="0.5" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+			</ScreenOverlay>
+			<GroundOverlay>
+				<name>Short-Range Reflectivity</name>
+				<Icon>
+					<href>http://radar.weather.gov/ridge/RadarImg/N0R/RIW_N0R_0.gif</href>
+					<refreshMode>onInterval</refreshMode>
+					<refreshInterval>120</refreshInterval>
+				</Icon>
+				<LatLonBox>
+					<north>45.7685148898038</north>
+					<south>40.353643673983</south>
+					<east>-105.51850864757</east>
+					<west>-111.425640883012</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
