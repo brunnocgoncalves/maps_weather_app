@@ -4,34 +4,6 @@
 	<name>NWS Radar Images</name>
 	<open>1</open>
 	<Folder>
-		<name>National Weather Service</name>
-		<visibility>0</visibility>
-		<ScreenOverlay>
-			<name>National Weather Service</name>
-			<visibility>0</visibility>
-			<description>National Weather Service Doppler Radar RIDGE Imagery http://radar.weather.gov</description>
-			<Icon>
-				<href>http://radar.weather.gov/ridge/graphics/nws_google.gif</href>
-			</Icon>
-			<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-			<screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
-			<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-			<size x="0" y="0" xunits="fraction" yunits="fraction"/>
-		</ScreenOverlay>
-		<ScreenOverlay>
-			<name>NOAA</name>
-			<visibility>0</visibility>
-			<description>National Oceanic and Atomospheric Administration  http://www.noaa.gov</description>
-			<Icon>
-				<href>http://radar.weather.gov/ridge/graphics/noaa_google.gif</href>
-			</Icon>
-			<overlayXY x="0.2" y="1" xunits="fraction" yunits="fraction"/>
-			<screenXY x="0.2" y="1" xunits="fraction" yunits="fraction"/>
-			<rotationXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-			<size x="0" y="0" xunits="fraction" yunits="fraction"/>
-		</ScreenOverlay>
-	</Folder>
-	<Folder>
 		<name>BMX</name>
 		<Folder>
 			<name>Long Range Reflectivity</name>
